@@ -1,8 +1,6 @@
-.section--no--padding--top {
-    padding-top: 0;
-}
 
-.product__list {
+
+.product {
     display: flex;
     gap: 30px;
 }
@@ -19,7 +17,7 @@
     background: rgba(47, 48, 58, 0.8);
 }
 
-.product__text {
+.product__title {
     font-size: 14px;
     line-height: 1.14;
     text-align: center;
